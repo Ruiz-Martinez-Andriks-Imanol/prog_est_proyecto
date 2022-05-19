@@ -1,5 +1,5 @@
 # prog_est_proyecto
-<p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 05/05/2022 <br>
+<p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 15/05/2022 <br>
   <b>Escuela:</b> Universidad del Valle de México <b>Campus</b> Villahermosa <br>
   <b>Materia:</b> Programación Estructurada <br>
   <b>Ciclo:</b> 01/2022</p>
