@@ -1,26 +1,25 @@
-/* Autor: Andriks Imanol Ruiz Mart韓ez Realizado: 15/05/2022
+/* Autor: Andriks Imanol Ruiz Mart铆nez Realizado: 15/05/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructrada
 Ciclo: 01/2022
 
-Este es un programa de funciones, ciclos y condicionales en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de funciones, ciclos y condicionales en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
 
     -Variables enteras, flotantes y en cadena
     -printf para mostrar mensajes y variables
     -fgets
     -scanf
-    -El uso de include para las librer韆s
-    -Librer韆s de la funci髇 string.h
-   	-Uso de condicionales
+    -El uso de include para las librer铆as
+    -Librer铆as de la funci贸n string.h
+    -Uso de condicionales
     -Archivos en cpp y tipo Header
-    -M閠odo de burbuja
     -#define MAX
     -Ciclos
     -fflush
     -Funciones
     -FILE: open/close
-    -Comentarios para la documentaci髇 interna del programa
+    -Comentarios para la documentaci贸n interna del programa
 	*/
 #include<stdio.h>
 #include<stdlib.h>
@@ -100,7 +99,7 @@ void agregar(struct equipo x[]){
 		leers("Edificio: ", x[n].edificio,10);
 		leers("Area: ", x[n].area,17);
 		n++; //hay que validar
-		pregunta=leerd("緼gregar otro equipo? (1-Si, 0-No): ", 0, 1);
+		pregunta=leerd("驴Agregar otro equipo? (1-Si, 0-No): ", 0, 1);
 		if (pregunta==0) {
 			break;
 		}
