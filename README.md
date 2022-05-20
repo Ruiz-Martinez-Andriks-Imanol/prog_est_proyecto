@@ -15,7 +15,6 @@ Muestra el uso de:
     <li>Librerías de la función string.h</li>
     <li>Uso de condicionales</li>
     <li>Archivos en cpp y tipo Header</li>
-    <li>Método de burbuja</li>
     <li>#define MAX</li>
     <li>Ciclos</li>
     <li>fflush</li>
