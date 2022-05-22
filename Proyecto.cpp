@@ -161,7 +161,6 @@ void buscar(struct equipo x[]) {
 	}
 void reasignar(struct equipo x[]){
 	//Pedir el dato
-	char nombre[30];
 	int ser;
 	int busca=0;
 	ser=leerd("Serie: ",0,999999);
